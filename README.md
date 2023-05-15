@@ -2,9 +2,9 @@
 
 ##### Atualmente estou cursando na Kenzie Academy Brasil. Para que eu possa me tornar um Desenvolvedor Fullstack.
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonnatan-douglas-dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonnatan-douglas-dev/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5533999328785)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhonnatanaraujodev@gmail.com?subject=&body=)
+[![G-Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhonnatanaraujodev@gmail.com?subject=&body=)
 <br>
 
 ### Projetos concluídos
