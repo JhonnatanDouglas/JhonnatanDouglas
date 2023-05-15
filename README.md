@@ -1,4 +1,4 @@
-<h2>Olá! Eu sou <strong>Jhonnatan Douglas</strong> 👋🏼</h2>
+<h2>Olá! Meu nome é <strong>Jhonnatan Douglas</strong> 👋🏼</h2>
 
 <h3>Atualmente estou cursando na <b>Kenzie Academy Brasil</b>. Para que eu possa me tornar um Desenvolvedor Fullstack</h3><br>
 
