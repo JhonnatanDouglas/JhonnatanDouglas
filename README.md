@@ -5,7 +5,7 @@
 [![G-Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhonnatanaraujodev@gmail.com?subject=&body=)
 <br>
 
-### Projetos concluídos
+### Principais projetos
 
 <a href="https://github.com/Kenzie-Academy-Brasil-Developers/gitSearchBase_JhonnatanDouglas">
   <img style="margin-bottom: 0.75rem;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kenzie-Academy-Brasil-Developers&repo=gitSearchBase_JhonnatanDouglas&theme=dracula"/>
@@ -26,10 +26,6 @@
 </a>
 
 ![]()
-
-<a href="https://github.com/Kenzie-Academy-Brasil-Developers/entrega-criando-rede-social_JhonnatanDouglas">
-  <img  style="margin-bottom: 0.75rem;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kenzie-Academy-Brasil-Developers&repo=entrega-criando-rede-social_JhonnatanDouglas&theme=dracula"/>
-</a>
 
 ### Conhecimento nas seguintes tecnologias
 
