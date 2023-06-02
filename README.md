@@ -12,17 +12,17 @@
 </a>
 <span> ..... </span>    
 <a href="https://github.com/Kenzie-Academy-Brasil-Developers/M1-Ecommerce_JhonnatanDouglas">
-  <img  style="margin-bottom: 0.75rem;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kenzie-Academy-Brasil-Developers&repo=M1-Ecommerce_JhonnatanDouglas&theme=dracula"/>
+  <img style="margin-bottom: 0.75rem;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kenzie-Academy-Brasil-Developers&repo=M1-Ecommerce_JhonnatanDouglas&theme=dracula"/>
 </a>
 
 ![]()
 
 <a href="https://github.com/Kenzie-Academy-Brasil-Developers/open-music-base_JhonnatanDouglas">
-  <img  style="margin-bottom: 0.75rem;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kenzie-Academy-Brasil-Developers&repo=open-music-base_JhonnatanDouglas&theme=dracula"/>
+  <img style="margin-bottom: 0.75rem;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kenzie-Academy-Brasil-Developers&repo=open-music-base_JhonnatanDouglas&theme=dracula"/>
 </a>
 <span> ..... </span>
 <a href="https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-s1-template-nu-kenzie_JhonnatanDouglas">
-  <img  style="margin-bottom: 0.75rem;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kenzie-Academy-Brasil-Developers&repo=react-entrega-s1-template-nu-kenzie_JhonnatanDouglas&theme=dracula"/>
+  <img style="margin-bottom: 0.75rem;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kenzie-Academy-Brasil-Developers&repo=react-entrega-s1-template-nu-kenzie_JhonnatanDouglas"/>
 </a>
 
 ![]()
