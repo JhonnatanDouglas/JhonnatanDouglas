@@ -7,7 +7,6 @@
 
 ### Principais projetos criados
 
-
 <a href="https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-kenzie-hub_JhonnatanDouglas">
   <img style="margin-bottom: 0.75rem;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kenzie-Academy-Brasil-Developers&repo=react-entrega-kenzie-hub_JhonnatanDouglas&theme=dark"/>
 </a>
@@ -25,7 +24,6 @@
 <a href="https://github.com/Kenzie-Academy-Brasil-Developers/gitSearchBase_JhonnatanDouglas">
   <img style="margin-bottom: 0.75rem;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kenzie-Academy-Brasil-Developers&repo=gitSearchBase_JhonnatanDouglas&theme=dark"/>
 </a>
-
 
 
 ![]()
