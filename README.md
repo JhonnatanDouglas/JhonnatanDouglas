@@ -27,9 +27,10 @@
 </a>
 
 
+
 ![]()
 
-### Conhecimento nas seguintes tecnologias
+### Conhecimento nas seguintes tecnologias, softwares e bibliotecas
 
 <div>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript-icon">
@@ -42,4 +43,5 @@
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap-icon">
     <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="Git-icon">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub-icon">
+    <img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white" alt="Insomnia-icon">
 </div>
