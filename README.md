@@ -8,7 +8,6 @@
 <h6 align="start">
   <img alt="KenzieHub" title="KenzieHub" src="https://i.ibb.co/stz9kGQ/wallpaperflare-cropped.jpg" width="828px" />
 </h6>
-<br />
 
 ### Conhecimento nas seguintes linguagens, tecnologias e bibliotecas
 
@@ -46,5 +45,6 @@
 <a href="https://github.com/Kenzie-Academy-Brasil-Developers/gitSearchBase_JhonnatanDouglas">
   <img style="margin-bottom: 0.75rem;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kenzie-Academy-Brasil-Developers&repo=gitSearchBase_JhonnatanDouglas&theme=dark"/>
 </a>
+
 
 
