@@ -8,6 +8,7 @@
 <h6 align="start">
   <img alt="KenzieHub" title="KenzieHub" src="https://i.ibb.co/stz9kGQ/wallpaperflare-cropped.jpg" width="828px" />
 </h6>
+<br />
 
 ### Conhecimento nas seguintes linguagens e frameworks
 
@@ -25,6 +26,7 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub-icon">
     <img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white" alt="Insomnia-icon">
 </div>
+<br />
 
 ### Principais projetos criados
 
