@@ -1,16 +1,25 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=26&center=true&vCenter=true&width=1000&lines=Olá!+Me+chamo+Jhonnatan+Douglas;Sou+estudante+de+Análise+e+Desenvolvimento+de+Sistemas;No+momento+estou+cursando+a+Kenzie+Academy+Brasil;Sou+de+Governador+Valadares,+Minas+Gerais;Seja+bem+vindo!;)](https://git.io/typing-svg)
 
-### Contato: 
+<div align="center">
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonnatan-douglas-dev/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5533999328785)
 [![G-Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhonnatanaraujodev@gmail.com?subject=&body=)
+  
+</div>
+
+
 
 <h6 align="start">
   <img alt="cover dev developer jhonnatan douglas git hub profile" src="https://i.ibb.co/XszD3CZ/tumblr-1e59432e5fe2d7942df39fdd0223d294-8f45c6df-1280.gif" width="828px" />
 </h6>
 <br />
 
+<div align="center">
+  
 ### Conhecimento nas seguintes linguagens, bibliotecas e frameworks
+
+</div>
 
 <div>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript-icon">
