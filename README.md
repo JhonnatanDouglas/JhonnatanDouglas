@@ -1,3 +1,7 @@
+<h6 align="start">
+  <img alt="KenzieHub" title="KenzieHub" src="https://i.ibb.co/stz9kGQ/wallpaperflare-cropped.jpg" width="830px" />
+</h6>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=26&center=true&vCenter=true&width=1000&lines=Olá!+Me+chamo+Jhonnatan+Douglas;Sou+estudante+de+Análise+e+Desenvolvimento+de+Sistemas;No+momento+estou+cursando+a+Kenzie+Academy+Brasil;Sou+de+Governador+Valadares,+Minas+Gerais;Seja+bem+vindo!;)](https://git.io/typing-svg)
 
 ### Contato: 
