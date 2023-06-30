@@ -6,7 +6,7 @@
 [![G-Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhonnatanaraujodev@gmail.com?subject=&body=)
 
 <h6 align="start">
-  <img alt="KenzieHub" title="KenzieHub" src="https://i.ibb.co/stz9kGQ/wallpaperflare-cropped.jpg" width="818px" />
+  <img alt="KenzieHub" title="KenzieHub" src="https://i.ibb.co/stz9kGQ/wallpaperflare-cropped.jpg" width="828px" />
 </h6>
 <br />
 
