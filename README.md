@@ -10,7 +10,7 @@
 
 
 
-<h6 align="start">
+<h6 align="center">
   <img alt="cover dev developer jhonnatan douglas git hub profile" src="https://i.ibb.co/XszD3CZ/tumblr-1e59432e5fe2d7942df39fdd0223d294-8f45c6df-1280.gif" width="828px" />
 </h6>
 <br />
@@ -21,7 +21,7 @@
 
 </div>
 
-<div>
+<div align="center">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript-icon">
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-icon">
@@ -37,7 +37,13 @@
 </div>
 <br />
 
+<div align="center">
+
 ### Principais projetos
+  
+</div>
+
+<div align="center">
 
 <a href="https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-kenzie-hub_JhonnatanDouglas">
   <img style="margin-bottom: 0.75rem;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kenzie-Academy-Brasil-Developers&repo=react-entrega-kenzie-hub_JhonnatanDouglas&theme=dark"/>
@@ -46,8 +52,14 @@
 <a href="https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-s1-template-nu-kenzie_JhonnatanDouglas">
   <img style="margin-bottom: 0.75rem;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kenzie-Academy-Brasil-Developers&repo=react-entrega-s1-template-nu-kenzie_JhonnatanDouglas&theme=dark"/>
 </a>
+  
+</div>
+
+
 
 ![]()
+
+<div align="center">
 
 <a href="https://github.com/Kenzie-Academy-Brasil-Developers/open-music-base_JhonnatanDouglas">
   <img style="margin-bottom: 0.75rem;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kenzie-Academy-Brasil-Developers&repo=open-music-base_JhonnatanDouglas&theme=dark"/>
@@ -56,6 +68,10 @@
 <a href="https://github.com/Kenzie-Academy-Brasil-Developers/gitSearchBase_JhonnatanDouglas">
   <img style="margin-bottom: 0.75rem;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kenzie-Academy-Brasil-Developers&repo=gitSearchBase_JhonnatanDouglas&theme=dark"/>
 </a>
+  
+</div>
+
+
 
 
 
