@@ -17,7 +17,7 @@
 
 <div align="center">
   
-### Conhecimento nas seguintes linguagens, bibliotecas e frameworks
+### Conhecimento nas seguintes tecnologias, bibliotecas e frameworks
 
 </div>
 
