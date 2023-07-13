@@ -59,12 +59,12 @@
 
 <div align="center">
 
-<a href="https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-kenzie-hub_JhonnatanDouglas">
-  <img style="margin-bottom: 0.75rem;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kenzie-Academy-Brasil-Developers&repo=react-entrega-kenzie-hub_JhonnatanDouglas&theme=dark"/>
+<a href="https://github.com/grupo7-T17/kenzie-feed">
+  <img style="margin-bottom: 0.75rem;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grupo7-T17&repo=kenzie-feed&theme=dark"/>
 </a>
 <span> ..... </span> 
-<a href="https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-s1-template-nu-kenzie_JhonnatanDouglas">
-  <img style="margin-bottom: 0.75rem;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kenzie-Academy-Brasil-Developers&repo=react-entrega-s1-template-nu-kenzie_JhonnatanDouglas&theme=dark"/>
+<a href="https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-kenzie-hub_JhonnatanDouglas">
+  <img style="margin-bottom: 0.75rem;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kenzie-Academy-Brasil-Developers&repo=react-entrega-kenzie-hub_JhonnatanDouglas&theme=dark"/>
 </a>
   
 </div>
@@ -75,8 +75,8 @@
 
 <div align="center">
 
-<a href="https://github.com/Kenzie-Academy-Brasil-Developers/open-music-base_JhonnatanDouglas">
-  <img style="margin-bottom: 0.75rem;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kenzie-Academy-Brasil-Developers&repo=open-music-base_JhonnatanDouglas&theme=dark"/>
+<a href="https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-s1-template-nu-kenzie_JhonnatanDouglas">
+  <img style="margin-bottom: 0.75rem;" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kenzie-Academy-Brasil-Developers&repo=react-entrega-s1-template-nu-kenzie_JhonnatanDouglas&theme=dark"/>
 </a>
 <span> ..... </span>
 <a href="https://github.com/Kenzie-Academy-Brasil-Developers/gitSearchBase_JhonnatanDouglas">
