@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=26&center=true&vCenter=true&width=1000&lines=Olá!+Me+chamo+Jhonnatan+Douglas;Sou+estudante+de+Análise+e+Desenvolvimento+de+Sistemas;No+momento+estou+cursando+a+Kenzie+Academy+Brasil;Sou+de+Governador+Valadares,+Minas+Gerais;Seja+bem+vindo!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=26&center=true&vCenter=true&width=1000&lines=Olá!+Me+chamo+Jhonnatan+Douglas;Sou+estudante+de+Análise+e+Desenvolvimento+de+Sistemas;No+momento+estou+cursando+a+Kenzie+Academy+Brasil;Já+sou+um+Desenvolvedor+Front-End;Sou+de+Governador+Valadares,+Minas+Gerais;Seja+bem+vindo!;)](https://git.io/typing-svg)
 
 <div align="center">
   
