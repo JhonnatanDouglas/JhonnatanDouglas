@@ -10,7 +10,7 @@
 </div>
 
 <h6 align="center">
-  <img alt="cover dev developer jhonnatan douglas git hub profile" src="https://i.ibb.co/XszD3CZ/tumblr-1e59432e5fe2d7942df39fdd0223d294-8f45c6df-1280.gif" play width="828px" />
+  <img alt="cover dev developer jhonnatan douglas git hub profile" src="https://i.ibb.co/XszD3CZ/tumblr-1e59432e5fe2d7942df39fdd0223d294-8f45c6df-1280.gif" width="828px" />
 </h6>
 <br />
 
