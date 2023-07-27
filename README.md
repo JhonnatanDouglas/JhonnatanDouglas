@@ -1,7 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=26&center=true&vCenter=true&width=1000&lines=Olá!+Me+chamo+Jhonnatan+Douglas;Sou+estudante+de+Análise+e+Desenvolvimento+de+Sistemas;No+momento+estou+cursando+a+Kenzie+Academy+Brasil;Já+sou+um+Desenvolvedor+Front-End;Sou+de+Governador+Valadares,+Minas+Gerais;Seja+bem+vindo!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=26&center=true&vCenter=true&width=1000&lines=Olá!+Me+chamo+Jhonnatan+Douglas;Sou+estudante+de+Análise+e+Desenvolvimento+de+Sistemas;No+momento+estou+cursando+a+Kenzie+Academy+Brasil;Já+sou+um+Desenvolvedor+Front-End;Sou+de+Governador+Valadares,+Minas+Gerais;Seja+bem+vindo!;)](#)
 
 <div align="center">
-  
+
+[![Resume](https://img.shields.io/badge/-Resume-%2346295A?style=for-the-badge&logo=readme&logoColor=white)](https://drive.google.com/file/d/1dYCGLxXzp6o13DsVq-Ypsv5HYn_fH1US/view?usp=sharing)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonnatan-douglas-dev/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5533999328785)
 [![G-Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhonnatanaraujodev@gmail.com?subject=&body=)
