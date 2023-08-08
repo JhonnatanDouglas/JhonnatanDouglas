@@ -3,7 +3,7 @@
 <div align="center">
   
 [![Resume](https://img.shields.io/badge/-Resume-%2346295A?style=for-the-badge&logo=readme&logoColor=white)](https://drive.google.com/file/d/1J-Xl-V6zRCKFpjXwiqhMV32W9QWBGOde/view)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://portfolio-jhonnatandev.vercel.app/skills)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://portfolio-jhonnatandev.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonnatan-douglas-dev/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5533999328785&text=Olá,%20Jhonnatan!%20Tudo%20bem?%0D%0A%0D%0AFiquei%20interessado%20em%20sua%20experiência%20como%20Desenvolvedor.%20Gostaria%20de%20conversar%20mais%20sobre%20uma%20oportunidade%20de%20emprego%20em%20nossa%20empresa.%0D%0A%0D%0AAguardo%20seu%20retorno%20para%20marcarmos%20uma%20entrevista.%20Obrigado!%0D%0A%0D%0AAtenciosamente,%0D%0ARecrutador%20da%20Empresa)
 [![G-Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhonnatanaraujodev@gmail.com?subject=Oportunidade%20de%20Emprego&body=Olá%20Jhonnatan,%0D%0A%0D%0AGostaríamos%20de%20conversar%20sobre%20uma%20oportunidade%20de%20emprego%20na%20nossa%20empresa.%0D%0A%0D%0AAtenciosamente,%0D%0AEquipe%20de%20Recrutamento)
