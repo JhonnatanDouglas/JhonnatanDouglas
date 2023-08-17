@@ -11,7 +11,7 @@
 </div>
 
 <h6 align="center">
-  <img alt="cover dev developer jhonnatan douglas git hub profile" src="https://i.postimg.cc/tTDvpxMw/jhonnatan-desenvolvedor-front-end.png"/>
+  <img alt="cover dev developer jhonnatan douglas git hub profile" src="https://s11.gifyu.com/images/Sg2LF.gif"/>
 </h6>
 <br />
 
