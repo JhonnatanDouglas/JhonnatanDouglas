@@ -3,12 +3,12 @@
 
 ###
 
-<img align="left" style="display: inline-block; margin-right: 15px; margin-bottom: 5px;" height="204" src="https://i.giphy.com/media/26BGIqWh2R1fi6JDa/giphy.webp"/>
+<img align="left" style="display: inline-block; margin-right: 15px; margin-bottom: 5px;" height="194" src="https://i.giphy.com/media/26BGIqWh2R1fi6JDa/giphy.webp"/>
 
 ###
 
 <div align="left">
-  <img src="https://imageupload.io/ib/zV5vjEd3V1HixyF_1693341382.png" height="50" alt="javascript logo"  />
+  <img src="https://imageupload.io/ib/zV5vjEd3V1HixyF_1693341382.png" height="40" alt="javascript logo"  />
 </div>
 
 <div>
