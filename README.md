@@ -3,7 +3,7 @@
 
 ###
 
-<img align="left" style="display: inline-block; margin-right: 15px; margin-bottom: 5px;" height="180" src="https://i.giphy.com/media/26BGIqWh2R1fi6JDa/giphy.webp"/>
+<img align="left" style="display: inline-block; margin-right: 15px; margin-bottom: 5px;" height="181" src="https://i.giphy.com/media/26BGIqWh2R1fi6JDa/giphy.webp"/>
 
 ###
 
