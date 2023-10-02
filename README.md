@@ -112,12 +112,7 @@
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker-icon">
 </div>
 
-
-<div align="left">
-  
-#### Extras
-
-</div>
+##### Extras
 
 <div align="left">
     <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="Git-icon">
