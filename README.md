@@ -15,7 +15,7 @@
   <br>
   <span>🎯 <strong>Meta de Desenvolvimento:</strong> Desenvolver habilidades Fullstack de alto nível;</span><br>
   <span>🎸 <strong>Hobbies:</strong> Tocar violão/guitarra nas horas vagas;</span><br>
-  <span>🤪 <strong>Fato Curioso:</strong> Adoro trocadilhos ruins...</span><br>
+  <span>🤪 <strong>Fato Curioso:</strong> Adoro trocadilhos...</span><br>
 </div>
 
 ###
