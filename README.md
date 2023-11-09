@@ -61,17 +61,17 @@
     </div>
     <div style="text-align: center; width: 48%;">
       <h4>Desenvolvido no Back-End</h4>
-      <a href="https://github.com/JhonnatanDouglas/market-sp1-m4">
-        <img style="margin-bottom: 0.75rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=JhonnatanDouglas&repo=m5-sp6-projeto-final-kanvas&theme=midnight-purple" alt="market sp1 m4" />
+      <a href="https://github.com/JhonnatanDouglas/m5-sp6-projeto-final-kanvas">
+        <img style="margin-bottom: 0.75rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=JhonnatanDouglas&repo=m5-sp6-projeto-final-kanvas&theme=midnight-purple" alt="Kanvas Jhonnatan Douglas JhonnatanDouglas" />
       </a>
-      <a href="https://github.com/JhonnatanDouglas/movies-sp2-m4">
-        <img style="margin-bottom: 0.75rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=JhonnatanDouglas&repo=m5-sp5-bandkamp&theme=midnight-purple" alt="movies sp2 m4" />
+      <a href="https://github.com/JhonnatanDouglas/m5-sp5-bandkamp">
+        <img style="margin-bottom: 0.75rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=JhonnatanDouglas&repo=m5-sp5-bandkamp&theme=midnight-purple" alt="Bandkamp Jhonnatan Douglas JhonnatanDouglas" />
       </a>
-      <a href="https://github.com/JhonnatanDouglas/controle-de-projetos-kenzievelopers">
-        <img style="margin-bottom: 0.75rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=JhonnatanDouglas&repo=m5-sp4-kenzie-buster&theme=midnight-purple" alt="controle de projetos kenzievelopers" />
+      <a href="https://github.com/JhonnatanDouglas/m5-sp4-kenzie-buster">
+        <img style="margin-bottom: 0.75rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=JhonnatanDouglas&repo=m5-sp4-kenzie-buster&theme=midnight-purple" alt="Kenzie Buster Jhonnatan Douglas JhonnatanDouglas" />
       </a>
       <a href="https://github.com/JhonnatanDouglas/m4-sp5-movies-typeorm">
-        <img style="margin-bottom: 0.75rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=JhonnatanDouglas&repo=m4-sp5-movies-typeorm&theme=midnight-purple" alt="controle de projetos kenzievelopers" />
+        <img style="margin-bottom: 0.75rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=JhonnatanDouglas&repo=m4-sp5-movies-typeorm&theme=midnight-purple" alt="Movies TypeORM Jhonnatan Douglas JhonnatanDouglas" />
       </a>
     </div>
   </div>
