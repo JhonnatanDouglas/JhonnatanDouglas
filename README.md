@@ -18,7 +18,7 @@
   <span>🤪 <strong>Fato Curioso:</strong> Adoro trocadilhos...</span><br>
 </div>
 
-###
+<br>
 
 <div align="left">
     <a href="https://drive.google.com/file/d/1dYCGLxXzp6o13DsVq-Ypsv5HYn_fH1US/view?usp=sharing" target="_blank">
