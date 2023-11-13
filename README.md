@@ -21,7 +21,7 @@
 <br>
 
 <div align="left">
-    <a href="https://drive.google.com/file/d/1dYCGLxXzp6o13DsVq-Ypsv5HYn_fH1US/view?usp=sharing" target="_blank">
+    <a href="https://drive.google.com/file/d/1Tg1rG_zpypIafWcn-wCtZUphx48gqlDl/view" target="_blank">
       <img src="https://img.shields.io/badge/-Resume-%2346295A?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" />
     </a>
     <a href="https://portfolio-jhonnatandev.vercel.app" target="_blank">
