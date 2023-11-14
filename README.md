@@ -8,7 +8,7 @@
 ###
 
 <div align="left">
-  <img src="https://imageupload.io/ib/zV5vjEd3V1HixyF_1693341382.png" height="40" alt="javascript logo"  />
+  <img src="https://raw.githubusercontent.com/JhonnatanDouglas/PortImgs_/main/github-imgs/github-techs.png" height="40" alt="javascript logo"  />
 </div>
 
 <div>
