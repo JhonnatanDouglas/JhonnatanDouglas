@@ -45,6 +45,12 @@
 
   <div style="display: flex; flex-direction: row; justify-content: space-around; flex-wrap: wrap; margin-top: 20px;">
     <div style="text-align: center; width: 48%;">
+      <h4>Desenvolvido em Fullstack</h4>
+      <a href="https://github.com/JhonnatanDouglas/M6-S01-02_ProjetoFullStack_JhonnatanDouglas_">
+        <img style="margin-bottom: 0.75rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=JhonnatanDouglas&repo=M6-S01-02_ProjetoFullStack_JhonnatanDouglas_&theme=shades-of-purple" alt="kenzie feed Jhonnatan Douglas" />
+      </a>
+    </div>
+    <div style="text-align: center; width: 48%;">
       <h4>Desenvolvido no Front-End</h4>
       <a href="https://github.com/grupo7-T17/kenzie-feed">
         <img style="margin-bottom: 0.75rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=grupo7-T17&repo=kenzie-feed&theme=outrun" alt="kenzie feed Jhonnatan Douglas" />
