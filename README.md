@@ -13,19 +13,22 @@
 
 <div>
   <br>
-  <span>🎯 <strong>Meta de Desenvolvimento:</strong> Desenvolver habilidades Fullstack de alto nível;</span><br>
-  <span>🎸 <strong>Hobbies:</strong> Tocar violão/guitarra nas horas vagas;</span><br>
-  <span>🤪 <strong>Fato Curioso:</strong> Adoro trocadilhos...</span><br>
+  <span>🎯 <strong>Meta de Desenvolvimento:</strong> Desenvolver habilidades Fullstack de alto nível;</span>
+  <br>
+  <span>🎸 <strong>Hobbies:</strong> Tocar violão/guitarra nas horas vagas;</span>
+  <br>
+  <span>🤪 <strong>Fato Curioso:</strong> Adoro trocadilhos...</span>
+  <br>
 </div>
 
 <br>
 
 <div align="left">
     <a href="https://drive.google.com/file/d/1Tg1rG_zpypIafWcn-wCtZUphx48gqlDl/view" target="_blank">
-      <img src="https://img.shields.io/badge/-Resume-%2346295A?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" />
+      <img src="https://img.shields.io/badge/-Currículo-%2346295A?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" />
     </a>
     <a href="https://portfolio-jhonnatandev.vercel.app" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/portfólio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" />
     </a>
     <a href="https://www.linkedin.com/in/jhonnatan-douglas-dev/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -43,41 +46,47 @@
 <div align="left">
   <h3>Principais Projetos</h3>
 
-  <div style="display: flex; flex-direction: row; justify-content: space-around; flex-wrap: wrap; margin-top: 20px;">
-    <div style="text-align: center; width: 48%;">
+  <div style="display: flex; flex-direction: row; flex-wrap: wrap; margin-top: 20px;">
+      <div style="text-align: center; width: 48%;">
       <h4>Desenvolvido em Fullstack</h4>
       <a href="https://github.com/JhonnatanDouglas/M6-S01-02_ProjetoFullStack_JhonnatanDouglas_">
-        <img style="margin-bottom: 0.75rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=JhonnatanDouglas&repo=M6-S01-02_ProjetoFullStack_JhonnatanDouglas_&theme=shades-of-purple" alt="kenzie feed Jhonnatan Douglas" />
+        <img style="margin-bottom: 0.75rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=JhonnatanDouglas&repo=M6-S01-02_ProjetoFullStack_JhonnatanDouglas_&bg_color=1e1b4b&border_color=fff&show_icons=true&icon_color=86198f&title_color=fbbf24&text_color=fff" alt="kenzie feed Jhonnatan Douglas" />
       </a>
     </div>
+  </div>
+
+  <div style="display: flex; flex-direction: row; flex-wrap: wrap; margin-top: 20px;">
     <div style="text-align: center; width: 48%;">
       <h4>Desenvolvido no Front-End</h4>
       <a href="https://github.com/grupo7-T17/kenzie-feed">
-        <img style="margin-bottom: 0.75rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=grupo7-T17&repo=kenzie-feed&theme=outrun" alt="kenzie feed Jhonnatan Douglas" />
+        <img style="margin-bottom: 0.75rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=grupo7-T17&repo=kenzie-feed&bg_color=141439&border_color=fff&show_icons=true&icon_color=FF1AFF&title_color=fbbf24&text_color=fff" />
       </a>
-      <a href="https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-kenzie-hub_JhonnatanDouglas">
-        <img style="margin-bottom: 0.75rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=Kenzie-Academy-Brasil-Developers&repo=react-entrega-kenzie-hub_JhonnatanDouglas&theme=outrun" alt="react entrega kenzie hub Jhonnatan Douglas" />
+      <a href="https://github.com/grupo7-T17/kenzie-feed">
+        <img style="margin-bottom: 0.75rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=Kenzie-Academy-Brasil-Developers&repo=react-entrega-kenzie-hub_JhonnatanDouglas&bg_color=141439&border_color=fff&show_icons=true&icon_color=FF1AFF&title_color=fbbf24&text_color=fff" />
       </a>
-      <a href="https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-s1-template-nu-kenzie_JhonnatanDouglas">
-        <img style="margin-bottom: 0.75rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=Kenzie-Academy-Brasil-Developers&repo=react-entrega-s1-template-nu-kenzie_JhonnatanDouglas&theme=outrun" alt="react entrega s1 template nu kenzie Jhonnatan Douglas" />
+      <a href="https://github.com/grupo7-T17/kenzie-feed">
+        <img style="margin-bottom: 0.75rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=Kenzie-Academy-Brasil-Developers&repo=react-entrega-s1-template-nu-kenzie_JhonnatanDouglas&bg_color=141439&border_color=fff&show_icons=true&icon_color=FF1AFF&title_color=fbbf24&text_color=fff" />
       </a>
-      <a href="https://github.com/Kenzie-Academy-Brasil-Developers/gitSearchBase_JhonnatanDouglas">
-        <img style="margin-bottom: 0.75rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=Kenzie-Academy-Brasil-Developers&repo=gitSearchBase_JhonnatanDouglas&theme=outrun" alt="git Search Base JhonnatanDouglas" />
+      <a href="https://github.com/grupo7-T17/kenzie-feed">
+        <img style="margin-bottom: 0.75rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=Kenzie-Academy-Brasil-Developers&repo=gitSearchBase_JhonnatanDouglas&bg_color=141439&border_color=fff&show_icons=true&icon_color=FF1AFF&title_color=fbbf24&text_color=fff" />
       </a>
     </div>
+  </div>
+
+  <div style="display: flex; flex-direction: row; flex-wrap: wrap; margin-top: 20px;">
     <div style="text-align: center; width: 48%;">
       <h4>Desenvolvido no Back-End</h4>
-      <a href="https://github.com/JhonnatanDouglas/m5-sp6-projeto-final-kanvas">
-        <img style="margin-bottom: 0.75rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=JhonnatanDouglas&repo=m5-sp6-projeto-final-kanvas&theme=midnight-purple" alt="Kanvas Jhonnatan Douglas JhonnatanDouglas" />
+      <a href="https://github.com/grupo7-T17/kenzie-feed">
+        <img style="margin-bottom: 0.75rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=JhonnatanDouglas&repo=m5-sp6-projeto-final-kanvas&bg_color=001&border_color=fff&show_icons=true&icon_color=aF1AFF&title_color=fbbf24&text_color=fff" />
       </a>
-      <a href="https://github.com/JhonnatanDouglas/m5-sp5-bandkamp">
-        <img style="margin-bottom: 0.75rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=JhonnatanDouglas&repo=m5-sp5-bandkamp&theme=midnight-purple" alt="Bandkamp Jhonnatan Douglas JhonnatanDouglas" />
+      <a href="https://github.com/grupo7-T17/kenzie-feed">
+        <img style="margin-bottom: 0.75rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=JhonnatanDouglas&repo=m5-sp5-bandkamp&bg_color=001&border_color=fff&show_icons=true&icon_color=aF1AFF&title_color=fbbf24&text_color=fff" />
       </a>
-      <a href="https://github.com/JhonnatanDouglas/m5-sp4-kenzie-buster">
-        <img style="margin-bottom: 0.75rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=JhonnatanDouglas&repo=m5-sp4-kenzie-buster&theme=midnight-purple" alt="Kenzie Buster Jhonnatan Douglas JhonnatanDouglas" />
+      <a href="https://github.com/grupo7-T17/kenzie-feed">
+        <img style="margin-bottom: 0.75rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=JhonnatanDouglas&repo=m5-sp4-kenzie-buster&bg_color=001&border_color=fff&show_icons=true&icon_color=aF1AFF&title_color=fbbf24&text_color=fff" />
       </a>
-      <a href="https://github.com/JhonnatanDouglas/m4-sp5-movies-typeorm">
-        <img style="margin-bottom: 0.75rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=JhonnatanDouglas&repo=m4-sp5-movies-typeorm&theme=midnight-purple" alt="Movies TypeORM Jhonnatan Douglas JhonnatanDouglas" />
+      <a href="https://github.com/grupo7-T17/kenzie-feed">
+        <img style="margin-bottom: 0.75rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=JhonnatanDouglas&repo=m4-sp5-movies-typeorm&bg_color=001&border_color=fff&show_icons=true&icon_color=aF1AFF&title_color=fbbf24&text_color=fff" />
       </a>
     </div>
   </div>
