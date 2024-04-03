@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=26&center=false&vCenter=true&width=1000&lines=Olá!+Chamo-me+Jhonnatan+Douglas;Sou+estudante+de+Análise+e+Desenvolvimento+de+Sistemas;No+momento+estou+cursando+a+Kenzie+Academy+Brasil;Já+sou+um+Desenvolvedor+Fullstack;Sou+de+Governador+Valadares,+Minas+Gerais;Seja+bem+vindo!;)](#)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=26&center=false&vCenter=true&width=1000&lines=Olá!+Chamo-me+Jhonnatan+Douglas;Sou+estudante+de+Análise+e+Desenvolvimento+de+Sistemas;Já+sou+um+Desenvolvedor+Fullstack;Sou+de+Governador+Valadares,+Minas+Gerais;Seja+bem+vindo!;)](#)
 
 
 ###
