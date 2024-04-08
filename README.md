@@ -121,8 +121,6 @@
 
 #### Status no GitHub
 
-<img height="170" src="https://github-readme-activity-graph.vercel.app/graph?username=JhonnatanDouglas&theme=nord&height=250"/>
-
 </div>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=JhonnatanDouglas&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=pt-br&hide_border=false" height="140" alt="GitHub Stats" />
