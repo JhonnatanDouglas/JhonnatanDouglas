@@ -69,7 +69,7 @@
 <br>
 <br>
 
-### Conhecimento nas seguintes tecnologias, bibliotecas e frameworks
+### Expertise nas seguintes tecnologias, bibliotecas e frameworks
 
 ### Front-End
 
