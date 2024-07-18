@@ -71,7 +71,7 @@
 
 ### Expertise nas seguintes tecnologias, bibliotecas e frameworks
 
-### Front-End
+### Frontend
 
 <div align="left">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-icon">
@@ -83,7 +83,7 @@
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind-icon">
 </div>
 
-### Back-End
+### Backend
 
 <div align="left">
     <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgress-icon">
