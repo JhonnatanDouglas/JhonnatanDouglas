@@ -49,19 +49,19 @@
     <div style="text-align: center; width: 48%;">
       <h4>Desenvolvido no Front-End</h4>
       <a href="https://github.com/grupo7-T17/kenzie-feed"><img style="margin-bottom: 0.75rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=grupo7-T17&repo=kenzie-feed&bg_color=141439&border_color=fff&show_icons=true&icon_color=FF1AFF&title_color=fbbf24&text_color=fff" /></a>
-      <a href="https://github.com/grupo7-T17/kenzie-feed"><img style="margin-bottom: 0.75rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=Kenzie-Academy-Brasil-Developers&repo=react-entrega-kenzie-hub_JhonnatanDouglas&bg_color=141439&border_color=fff&show_icons=true&icon_color=FF1AFF&title_color=fbbf24&text_color=fff" /></a>
-      <a href="https://github.com/grupo7-T17/kenzie-feed"><img style="margin-bottom: 0.75rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=Kenzie-Academy-Brasil-Developers&repo=react-entrega-s1-template-nu-kenzie_JhonnatanDouglas&bg_color=141439&border_color=fff&show_icons=true&icon_color=FF1AFF&title_color=fbbf24&text_color=fff" /></a>
-      <a href="https://github.com/grupo7-T17/kenzie-feed"><img style="margin-bottom: 0.75rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=Kenzie-Academy-Brasil-Developers&repo=gitSearchBase_JhonnatanDouglas&bg_color=141439&border_color=fff&show_icons=true&icon_color=FF1AFF&title_color=fbbf24&text_color=fff" /></a>
+      <a href="https://github.com/JhonnatanDouglas/react-entrega-kenzie-hub"><img style="margin-bottom: 0.75rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=Kenzie-Academy-Brasil-Developers&repo=react-entrega-kenzie-hub_JhonnatanDouglas&bg_color=141439&border_color=fff&show_icons=true&icon_color=FF1AFF&title_color=fbbf24&text_color=fff" /></a>
+      <a href="https://github.com/JhonnatanDouglas/react-entrega-s1-template-nu-kenzie"><img style="margin-bottom: 0.75rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=Kenzie-Academy-Brasil-Developers&repo=react-entrega-s1-template-nu-kenzie_JhonnatanDouglas&bg_color=141439&border_color=fff&show_icons=true&icon_color=FF1AFF&title_color=fbbf24&text_color=fff" /></a>
+      <a href="https://github.com/JhonnatanDouglas/gitSearchBase"><img style="margin-bottom: 0.75rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=Kenzie-Academy-Brasil-Developers&repo=gitSearchBase_JhonnatanDouglas&bg_color=141439&border_color=fff&show_icons=true&icon_color=FF1AFF&title_color=fbbf24&text_color=fff" /></a>
     </div>
   </div>
 
   <div style="display: flex; flex-direction: row; flex-wrap: wrap; margin-top: 20px;">
     <div style="text-align: center; width: 48%;">
       <h4>Desenvolvido no Back-End</h4>
-      <a href="https://github.com/grupo7-T17/kenzie-feed"><img style="margin-bottom: 0.75rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=JhonnatanDouglas&repo=m5-sp6-projeto-final-kanvas&bg_color=001&border_color=fff&show_icons=true&icon_color=aF1AFF&title_color=fbbf24&text_color=fff" /></a>
-      <a href="https://github.com/grupo7-T17/kenzie-feed"><img style="margin-bottom: 0.75rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=JhonnatanDouglas&repo=m5-sp5-bandkamp&bg_color=001&border_color=fff&show_icons=true&icon_color=aF1AFF&title_color=fbbf24&text_color=fff" /></a>
-      <a href="https://github.com/grupo7-T17/kenzie-feed"><img style="margin-bottom: 0.75rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=JhonnatanDouglas&repo=m5-sp4-kenzie-buster&bg_color=001&border_color=fff&show_icons=true&icon_color=aF1AFF&title_color=fbbf24&text_color=fff" /></a>
-      <a href="https://github.com/grupo7-T17/kenzie-feed"><img style="margin-bottom: 0.75rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=JhonnatanDouglas&repo=m4-sp5-movies-typeorm&bg_color=001&border_color=fff&show_icons=true&icon_color=aF1AFF&title_color=fbbf24&text_color=fff" /></a>
+      <a href="https://github.com/JhonnatanDouglas/m5-sp6-projeto-final-kanvas"><img style="margin-bottom: 0.75rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=JhonnatanDouglas&repo=m5-sp6-projeto-final-kanvas&bg_color=001&border_color=fff&show_icons=true&icon_color=aF1AFF&title_color=fbbf24&text_color=fff" /></a>
+      <a href="https://github.com/JhonnatanDouglas/m5-sp5-bandkamp"><img style="margin-bottom: 0.75rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=JhonnatanDouglas&repo=m5-sp5-bandkamp&bg_color=001&border_color=fff&show_icons=true&icon_color=aF1AFF&title_color=fbbf24&text_color=fff" /></a>
+      <a href="https://github.com/JhonnatanDouglas/m5-sp4-kenzie-buster"><img style="margin-bottom: 0.75rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=JhonnatanDouglas&repo=m5-sp4-kenzie-buster&bg_color=001&border_color=fff&show_icons=true&icon_color=aF1AFF&title_color=fbbf24&text_color=fff" /></a>
+      <a href="https://github.com/JhonnatanDouglas/m4-sp5-movies-typeorm"><img style="margin-bottom: 0.75rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=JhonnatanDouglas&repo=m4-sp5-movies-typeorm&bg_color=001&border_color=fff&show_icons=true&icon_color=aF1AFF&title_color=fbbf24&text_color=fff" /></a>
     </div>
   </div>
 </div>
