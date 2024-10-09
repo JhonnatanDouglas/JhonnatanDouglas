@@ -26,12 +26,14 @@
 <div align="left">
     <a style="text-decoration: none;" href="https://drive.google.com/file/d/14P7hw8kIB9BLoXHFEZ3abbLYG3u1WK3E/view" target="_blank"><img src="https://img.shields.io/badge/-Currículo-%2346295A?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" /></a>
     <a href="https://portfolio-jhonnatandev.vercel.app" target="_blank"><img src="https://img.shields.io/badge/portfólio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" /></a>
+    <a href="https://wakatime.com/@jhonnatandev" target="_blank"><img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white" alt="Wakatime" /></a>
     <a href="https://www.linkedin.com/in/jhonnatan-douglas-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://api.whatsapp.com/send?phone=5533999328785&text=Ol%C3%A1,%20Jhonnatan!%20Tudo%20bem?%0D%0A%0D%0AFiquei%20interessado%20em%20sua%20experi%C3%AAncia%20como%20Desenvolvedor.%20Gostaria%20de%20conversar%20mais%20sobre%20uma%20oportunidade%20de%20emprego%20em%20nossa%20empresa.%0D%0A%0D%0AAguardo%20seu%20retorno%20para%20marcarmos%20uma%20entrevista.%20Obrigado!%0D%0A%0D%0AAtenciosamente,%0D%0ARecrutador%20da%20Empresa" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
     <a href="mailto:jhonnatanaraujodev@gmail.com?subject=Oportunidade%20de%20Emprego&body=Ol%C3%A1%20Jhonnatan,%0D%0A%0D%0AGostar%C3%ADamos%20de%20conversar%20sobre%20uma%20oportunidade%20de%20emprego%20na%20nossa%20empresa.%0D%0A%0D%0AAtenciosamente,%0D%0AEquipe%20de%20Recrutamento" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </div>
 
 <br>
+
 
 <div align="left">
   <h3>Principais Projetos</h3>
