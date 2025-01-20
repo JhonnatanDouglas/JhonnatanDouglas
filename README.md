@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fbbf2f&size=26&center=false&vCenter=true&width=1000&lines=Olá!+Chamo-me+Jhonnatan+Douglas;Sou+estudante+de+Análise+e+Desenvolvimento+de+Sistemas;Já+sou+um+Desenvolvedor+Fullstack;Sou+de+Governador+Valadares,+Minas+Gerais;Seja+bem+vindo!;)](#)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fbbf2f&size=26&center=false&vCenter=true&width=1000&lines=Hello!+My+name+is+Jhonnatan+Douglas;I+am+a+student+of+Systems+Analysis+and+Development;I+am+already+a+Fullstack+Developer;I+am+from+Governador+Valadares,+Minas+Gerais;Welcome!;)](#)
 
 ###
 
@@ -13,32 +12,34 @@
 
 <div>
   <br>
-  <span>🎯 <strong>Meta de Desenvolvimento:</strong> Desenvolver habilidades Fullstack de alto nível;</span>
+  <span>🎯 <strong>Development Goal:</strong> Develop high-level Fullstack skills;</span>
   <br>
-  <span>🎸 <strong>Hobbies:</strong> Tocar violão/guitarra nas horas vagas;</span>
+  <span>🎸 <strong>Hobbies:</strong> Play guitar in my free time;</span>
   <br>
-  <span>🤪 <strong>Fato Curioso:</strong> Adoro trocadilhos...</span>
+  <span>🤪 <strong>Fun Fact:</strong> I love puns...</span>
   <br>
 </div>
 
 <br>
 
 <div align="left">
-    <a style="text-decoration: none;" href="https://drive.google.com/file/d/14P7hw8kIB9BLoXHFEZ3abbLYG3u1WK3E/view" target="_blank"><img src="https://img.shields.io/badge/-Currículo-%2346295A?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" /></a>
-    <a href="https://portfolio-jhonnatandev.vercel.app" target="_blank"><img src="https://img.shields.io/badge/portfólio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" /></a>
+    <a style="text-decoration: none;" href="https://drive.google.com/file/d/1HMWpnlstg0BfFk-Otrr4nxO7UZm3VDqR/view" target="_blank"><img src="https://img.shields.io/badge/-Resume-%2346295A?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" /></a>
+    <a href="https://portfolio-jhonnatandev.vercel.app" target="_blank"><img src="https://img.shields.io/badge/portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" /></a>
     <a href="https://www.linkedin.com/in/jhonnatan-douglas-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://api.whatsapp.com/send?phone=5533999328785&text=Ol%C3%A1,%20Jhonnatan!%20Tudo%20bem?%0D%0A%0D%0AFiquei%20interessado%20em%20sua%20experi%C3%AAncia%20como%20Desenvolvedor.%20Gostaria%20de%20conversar%20mais%20sobre%20uma%20oportunidade%20de%20emprego%20em%20nossa%20empresa.%0D%0A%0D%0AAguardo%20seu%20retorno%20para%20marcarmos%20uma%20entrevista.%20Obrigado!%0D%0A%0D%0AAtenciosamente,%0D%0ARecrutador%20da%20Empresa" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-    <a href="mailto:jhonnatanaraujodev@gmail.com?subject=Oportunidade%20de%20Emprego&body=Ol%C3%A1%20Jhonnatan,%0D%0A%0D%0AGostar%C3%ADamos%20de%20conversar%20sobre%20uma%20oportunidade%20de%20emprego%20na%20nossa%20empresa.%0D%0A%0D%0AAtenciosamente,%0D%0AEquipe%20de%20Recrutamento" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+    <a href="https://api.whatsapp.com/send?phone=5533999328785&text=Hello,%20Jhonnatan!%20How%20are%20you?%0D%0A%0D%0AI%20am%20interested%20in%20your%20experience%20as%20a%20Developer.%20I%20would%20like%20to%20discuss%20an%20employment%20opportunity%20at%20our%20company.%0D%0A%0D%0ALooking%20forward%20to%20hearing%20from%20you%20to%20schedule%20an%20interview.%20Thank%20you!%0D%0A%0D%0AKind%20Regards,%0D%0ARecruiter%20from%20the%20Company" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+    <a href="mailto:jhonnatanaraujodev@gmail.com?subject=Job%20Opportunity&body=Hello%20Jhonnatan,%0D%0A%0D%0AWe%20would%20like%20to%20discuss%20a%20job%20opportunity%20at%20our%20company.%0D%0A%0D%0AKind%20Regards,%0D%0ARecruitment%20Team" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </div>
 
+#### This is my Brazilian Portuguese resume version:
+<a style="text-decoration: none;" href="https://drive.google.com/file/d/14P7hw8kIB9BLoXHFEZ3abbLYG3u1WK3E/view" target="_blank"><img src="https://img.shields.io/badge/-Resume-%2346295A?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" /></a>
 <br>
 
 <div align="left">
-  <h3>Principais Projetos</h3>
+  <h3>Main Projects</h3>
 
   <div style="display: flex; flex-direction: row; flex-wrap: wrap; margin-top: 20px;">
       <div style="text-align: center; width: 48%;">
-      <h4>Desenvolvido em Fullstack</h4>
+      <h4>Developed in Fullstack</h4>
       <a href="https://github.com/JhonnatanDouglas/M6-S01-02_ProjetoFullStack_JhonnatanDouglas_">
         <img style="margin-bottom: 0.75rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=JhonnatanDouglas&repo=M6-S01-02_ProjetoFullStack_JhonnatanDouglas_&bg_color=1e1b4b&border_color=fff&show_icons=true&icon_color=86198f&title_color=fbbf24&text_color=fff" alt="kenzie feed Jhonnatan Douglas" />
       </a>
@@ -47,7 +48,7 @@
 
   <div style="display: flex; flex-direction: row; flex-wrap: wrap; margin-top: 20px;">
     <div style="text-align: center; width: 48%;">
-      <h4>Desenvolvido no Front-End</h4>
+      <h4>Developed in Front-End</h4>
       <a href="https://github.com/grupo7-T17/kenzie-feed"><img style="margin-bottom: 0.75rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=grupo7-T17&repo=kenzie-feed&bg_color=141439&border_color=fff&show_icons=true&icon_color=FF1AFF&title_color=fbbf24&text_color=fff" /></a>
       <a href="https://github.com/JhonnatanDouglas/react-entrega-kenzie-hub"><img style="margin-bottom: 0.75rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=Kenzie-Academy-Brasil-Developers&repo=react-entrega-kenzie-hub_JhonnatanDouglas&bg_color=141439&border_color=fff&show_icons=true&icon_color=FF1AFF&title_color=fbbf24&text_color=fff" /></a>
       <a href="https://github.com/JhonnatanDouglas/react-entrega-s1-template-nu-kenzie"><img style="margin-bottom: 0.75rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=Kenzie-Academy-Brasil-Developers&repo=react-entrega-s1-template-nu-kenzie_JhonnatanDouglas&bg_color=141439&border_color=fff&show_icons=true&icon_color=FF1AFF&title_color=fbbf24&text_color=fff" /></a>
@@ -57,7 +58,7 @@
 
   <div style="display: flex; flex-direction: row; flex-wrap: wrap; margin-top: 20px;">
     <div style="text-align: center; width: 48%;">
-      <h4>Desenvolvido no Back-End</h4>
+      <h4>Developed in Back-End</h4>
       <a href="https://github.com/JhonnatanDouglas/m5-sp6-projeto-final-kanvas"><img style="margin-bottom: 0.75rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=JhonnatanDouglas&repo=m5-sp6-projeto-final-kanvas&bg_color=001&border_color=fff&show_icons=true&icon_color=aF1AFF&title_color=fbbf24&text_color=fff" /></a>
       <a href="https://github.com/JhonnatanDouglas/m5-sp5-bandkamp"><img style="margin-bottom: 0.75rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=JhonnatanDouglas&repo=m5-sp5-bandkamp&bg_color=001&border_color=fff&show_icons=true&icon_color=aF1AFF&title_color=fbbf24&text_color=fff" /></a>
       <a href="https://github.com/JhonnatanDouglas/m5-sp4-kenzie-buster"><img style="margin-bottom: 0.75rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=JhonnatanDouglas&repo=m5-sp4-kenzie-buster&bg_color=001&border_color=fff&show_icons=true&icon_color=aF1AFF&title_color=fbbf24&text_color=fff" /></a>
@@ -69,7 +70,7 @@
 <br>
 <br>
 
-### Expertise nas seguintes tecnologias, bibliotecas e frameworks
+### Expertise in the following technologies, libraries, and frameworks
 
 ### Frontend
 
@@ -104,7 +105,7 @@
     <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="slack-icon">
 </div>
 
-##### Conhecimento Básico em
+##### Basic Knowledge in
 
 <div align="left">
     <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="css-styled-components-icon">
@@ -117,15 +118,15 @@
 
 #### Wakatime
 
-Informações relacionadas a estudos! Acesse meu perfil no Wakatime e veja o que tenho estudado: 
+Information related to my studies! Check out my Wakatime profile to see what I've been learning: 
 <br>
 <a align="center" href="https://wakatime.com/@jhonnatandev" target="_blank"><img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white" alt="Wakatime" /></a>
 
 
-#### Status no GitHub
+#### GitHub Status
 
 </div>
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JhonnatanDouglas&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=pt-br&hide_border=false" height="140" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JhonnatanDouglas&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=4&theme=nord&hide_border=false" height="140" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JhonnatanDouglas&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=false" height="140" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JhonnatanDouglas&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=4&theme=nord&hide_border=false" height="140" alt="Top Languages" />
 </div>
