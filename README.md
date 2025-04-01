@@ -35,15 +35,11 @@
 <br>
 
 <div style="display: flex; flex-direction: row; flex-wrap: wrap; margin-top: 20px;">
-    <div style="text-align: center; width: 48%;">
-        <h4>Last challenges completed</h4>
-        <a href="https://github.com/JhonnatanDouglas/challenge01_kingjotaro">
-            <img style="margin-bottom: 0.75rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=JhonnatanDouglas&repo=challenge01_kingjotaro&bg_color=4b0082&border_color=fff&show_icons=true&icon_color=fff&title_color=fbbf24&text_color=fff" alt="Challenge 01 - King Jotaro" />
-        </a>
-        <a href="https://github.com/JhonnatanDouglas/web_scraper_hiper_piracicaba">
-            <img style="margin-bottom: 0.75rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=JhonnatanDouglas&repo=web_scraper_hiper_piracicaba&bg_color=4b0082&border_color=fff&show_icons=true&icon_color=fff&title_color=fbbf24&text_color=fff" alt="Web Scraper - Hiper Piracicaba" />
-        </a>
-    </div>
+  <div style="text-align: center; width: 48%;">
+  <h4>Last challenges completed</h4>
+    <a href="https://github.com/JhonnatanDouglas/challenge01_kingjotaro"><img style="margin-bottom: 0.75rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=JhonnatanDouglas&repo=challenge01_kingjotaro&bg_color=4b0082&border_color=fff&show_icons=true&icon_color=fff&title_color=fbbf24&text_color=fff" alt="Challenge 01 - King Jotaro" /></a>
+    <a href="https://github.com/JhonnatanDouglas/web_scraper_hiper_piracicaba"><img style="margin-bottom: 0.75rem;" src="https://github-readme-stats.vercel.app/api/pin/?username=JhonnatanDouglas&repo=web_scraper_hiper_piracicaba&bg_color=4b0082&border_color=fff&show_icons=true&icon_color=fff&title_color=fbbf24&text_color=fff" alt="Web Scraper - Hiper Piracicaba" /></a>
+  </div>
 </div>
 
 <div align="left">
